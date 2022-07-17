@@ -1,4 +1,4 @@
-# CSD380-Module10
+# CSD380-GitLab
 Team Git practice
 ## Contributors
 - Brittany Normandin
